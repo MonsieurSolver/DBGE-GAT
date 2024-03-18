@@ -1,4 +1,4 @@
-# Efficient Graph Embedding Using Dissimilarity: A GAT-based Approach
+# Dissimilarity-Based Graph Embedding: An Efficient GAT-based Approach
 
 This is a Python framework for Dissimilarity-Based Graph Embedding (DBGE). The code is associated with the publication "Dissimilarity-Based Graph Embedding: An Efficient GAT-based Approach".
 
